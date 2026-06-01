@@ -58,7 +58,7 @@ st.markdown("""
 # =====================================
 
 skills_df = pd.read_csv(
-    "../Data/skills_database.csv"
+    "Data/skills_database.csv"
 )
 
 skills_list = (
@@ -68,7 +68,7 @@ skills_list = (
 )
 
 jobs_df = pd.read_csv(
-    "../Data/jobs.csv"
+    "Data/jobs.csv"
 )
 
 # =====================================
