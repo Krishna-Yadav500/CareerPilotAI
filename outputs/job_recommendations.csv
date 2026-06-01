@@ -1,0 +1,41 @@
+Role,Description,Match Score,Recommendation
+Machine Learning Intern,"
+        Python
+        Machine Learning
+        Deep Learning
+        TensorFlow
+        Pandas
+        NumPy
+        Scikit-Learn
+        ",56.17296629005679,Consider Learning
+Data Analyst,"
+        SQL
+        Excel
+        Power BI
+        Python
+        Pandas
+        Data Analysis
+        ",15.617408105979791,Low Match
+Software Engineer,"
+        Java
+        C++
+        Data Structures
+        Algorithms
+        Git
+        ",20.016379895243332,Low Match
+AI Engineer,"
+        Python
+        Deep Learning
+        TensorFlow
+        PyTorch
+        NLP
+        Computer Vision
+        ",15.617408105979791,Low Match
+Data Scientist,"
+        Python
+        SQL
+        Machine Learning
+        Statistics
+        Pandas
+        NumPy
+        ",62.97414887709603,Recommended

@@ -1,0 +1,35 @@
+Here's a set of interview questions tailored for a Machine Learning Intern role, based on the provided resume and target role:
+
+---
+
+### Machine Learning Intern Interview Questions
+
+**Candidate:** [Candidate Name]
+**Role:** Machine Learning Intern
+
+---
+
+### 1. Technical Questions (5)
+
+1.  **Python Fundamentals:** Explain the difference between a `list` and a `tuple` in Python. When might you choose to use one over the other in a data science or machine learning context?
+2.  **Machine Learning Concepts:** Define what **overfitting** and **underfitting** mean in machine learning. How would you diagnose these issues, and what are some common strategies to address them?
+3.  **Deep Learning & TensorFlow:** You're tasked with building a simple image classifier using a Convolutional Neural Network (CNN) in TensorFlow. Describe the typical steps you would take from defining your model architecture to training and evaluating it. What are some key components or layers you'd consider?
+4.  **Computer Vision:** Briefly explain the role of **Convolutional Layers** in a Convolutional Neural Network (CNN). Why are they particularly effective for image processing tasks compared to fully connected layers?
+5.  **Algorithm Selection:** Imagine you are working on a project to predict customer churn (whether a customer will stop using a service). Based on your understanding, what type of machine learning algorithm would you initially consider for this problem, and why? What metrics would you use to evaluate its performance?
+
+---
+
+### 2. Project Questions (3)
+
+(Target Project: CareerPilot AI)
+
+1.  **Project Overview:** Could you walk me through your "CareerPilot AI" project? What problem was it designed to solve, what was your personal goal or hypothesis for the project, and what was the overall architecture or methodology you employed?
+2.  **Technical Contribution & Challenges:** What specific machine learning or deep learning techniques did you implement in CareerPilot AI? Can you describe one significant technical challenge you encountered during the project's development and how you approached resolving it?
+3.  **Learnings & Future Directions:** What was the most significant learning experience or takeaway you gained from working on CareerPilot AI? If you were to restart the project today with your current knowledge, what would you do differently or improve upon?
+
+---
+
+### 3. HR Questions (2)
+
+1.  **Motivation & Interest:** What specifically excites you about an Machine Learning Intern role, and what makes you interested in pursuing this opportunity with our company in particular?
+2.  **Learning & Growth:** As an intern, you'll likely encounter new challenges and technologies. How do you typically approach learning new concepts or tools independently, and can you provide an example of a time you had to quickly learn something new for a project or task?

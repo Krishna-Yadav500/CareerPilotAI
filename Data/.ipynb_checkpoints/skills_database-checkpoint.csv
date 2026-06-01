@@ -1,0 +1,173 @@
+skill,category
+Python,Programming
+Java,Programming
+C++,Programming
+C,Programming
+JavaScript,Programming
+TypeScript,Programming
+Go,Programming
+Rust,Programming
+PHP,Programming
+Ruby,Programming
+Kotlin,Programming
+Swift,Programming
+R,Programming
+MATLAB,Programming
+Scala,Programming
+Perl,Programming
+HTML,Web Development
+CSS,Web Development
+Bootstrap,Web Development
+Tailwind CSS,Web Development
+React,Web Development
+Next.js,Web Development
+Angular,Web Development
+Vue.js,Web Development
+Node.js,Web Development
+Express.js,Web Development
+Django,Web Development
+Flask,Web Development
+FastAPI,Web Development
+Spring Boot,Web Development
+ASP.NET,Web Development
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+SQLite,Database
+MongoDB,Database
+Redis,Database
+Oracle Database,Database
+Microsoft SQL Server,Database
+Cassandra,Database
+Firebase,Database
+Machine Learning,ML
+Deep Learning,ML
+Supervised Learning,ML
+Unsupervised Learning,ML
+Reinforcement Learning,ML
+Transfer Learning,ML
+Feature Engineering,ML
+Model Evaluation,ML
+Cross Validation,ML
+Hyperparameter Tuning,ML
+Classification,ML
+Regression,ML
+Clustering,ML
+Recommendation Systems,ML
+Time Series Forecasting,ML
+Anomaly Detection,ML
+Natural Language Processing,NLP
+Text Classification,NLP
+Named Entity Recognition,NLP
+Sentiment Analysis,NLP
+Topic Modeling,NLP
+Question Answering,NLP
+Text Summarization,NLP
+Information Retrieval,NLP
+Computer Vision,CV
+Image Classification,CV
+Object Detection,CV
+Image Segmentation,CV
+OCR,CV
+Face Recognition,CV
+Pose Estimation,CV
+OpenCV,CV
+TensorFlow,Deep Learning
+Keras,Deep Learning
+PyTorch,Deep Learning
+Hugging Face,Deep Learning
+Transformers,Deep Learning
+CNN,Deep Learning
+RNN,Deep Learning
+LSTM,Deep Learning
+GRU,Deep Learning
+GANs,Deep Learning
+Autoencoders,Deep Learning
+BERT,Deep Learning
+RoBERTa,Deep Learning
+GPT,Deep Learning
+Sentence Transformers,Deep Learning
+NumPy,Data Science
+Pandas,Data Science
+Matplotlib,Data Science
+Seaborn,Data Science
+SciPy,Data Science
+Statsmodels,Data Science
+Scikit-learn,Data Science
+XGBoost,Data Science
+LightGBM,Data Science
+CatBoost,Data Science
+Data Cleaning,Data Science
+Data Wrangling,Data Science
+Exploratory Data Analysis,Data Science
+Statistical Analysis,Data Science
+Probability,Mathematics
+Statistics,Mathematics
+Linear Algebra,Mathematics
+Calculus,Mathematics
+Optimization,Mathematics
+Git,Tools
+GitHub,Tools
+GitLab,Tools
+Docker,Tools
+Kubernetes,Tools
+Jupyter Notebook,Tools
+JupyterLab,Tools
+VS Code,Tools
+PyCharm,Tools
+Linux,Tools
+Bash,Tools
+Streamlit,Tools
+Gradio,Tools
+Apache Spark,Big Data
+Hadoop,Big Data
+Hive,Big Data
+Kafka,Big Data
+Airflow,Big Data
+Databricks,Big Data
+AWS,Cloud
+Amazon EC2,Cloud
+Amazon S3,Cloud
+AWS Lambda,Cloud
+Azure,Cloud
+Google Cloud Platform,Cloud
+Vertex AI,Cloud
+Cloud Functions,Cloud
+DevOps,Cloud
+CI/CD,Cloud
+Power BI,Business Intelligence
+Tableau,Business Intelligence
+Looker,Business Intelligence
+Excel,Business Intelligence
+Data Visualization,Business Intelligence
+Cyber Security,Security
+Network Security,Security
+Penetration Testing,Security
+Ethical Hacking,Security
+Cryptography,Security
+Blockchain,Emerging Tech
+Smart Contracts,Emerging Tech
+Web3,Emerging Tech
+Internet of Things,Emerging Tech
+Embedded Systems,Emerging Tech
+Arduino,Embedded Systems
+Raspberry Pi,Embedded Systems
+Microcontrollers,Embedded Systems
+Robotics,Embedded Systems
+Operating Systems,Computer Science
+Computer Networks,Computer Science
+DBMS,Computer Science
+Data Structures,Computer Science
+Algorithms,Computer Science
+Object Oriented Programming,Computer Science
+System Design,Computer Science
+Software Engineering,Computer Science
+Agile,Project Management
+Scrum,Project Management
+Project Management,Project Management
+Communication,Soft Skills
+Leadership,Soft Skills
+Problem Solving,Soft Skills
+Critical Thinking,Soft Skills
+Teamwork,Soft Skills
+Presentation Skills,Soft Skills
